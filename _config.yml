@@ -1,0 +1,4 @@
+baseurl: "/storage"
+theme:
+timezone: Etc/UTC
+encoding: utf-8
