@@ -1,4 +1,4 @@
-baseurl: "/storage"
+baseurl: "/ashelor"
 theme:
 timezone: Etc/UTC
 encoding: utf-8
